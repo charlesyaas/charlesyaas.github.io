@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://charlesid.dev/</loc>
+    <lastmod>2023-06-30T22:03:47+09:00</lastmod>
+  </url><url>
+    <loc>https://charlesid.dev/post/post1/</loc>
+    <lastmod>2023-06-30T22:03:47+09:00</lastmod>
+  </url><url>
+    <loc>https://charlesid.dev/post/</loc>
+    <lastmod>2023-06-30T22:03:47+09:00</lastmod>
+  </url><url>
+    <loc>https://charlesid.dev/readme/</loc>
+    <lastmod>2023-06-30T22:02:37+09:00</lastmod>
+  </url><url>
+    <loc>https://charlesid.dev/categories/</loc>
+  </url><url>
+    <loc>https://charlesid.dev/tags/</loc>
+  </url>
+</urlset>

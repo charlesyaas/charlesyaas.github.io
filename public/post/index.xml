@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Charles Blog&#39;s</title>
+    <link>https://charlesid.dev/post/</link>
+    <description>Recent content in Posts on Charles Blog&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>us-en</language>
+    <lastBuildDate>Fri, 30 Jun 2023 22:01:12 +0900</lastBuildDate><atom:link href="https://charlesid.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>https://charlesid.dev/post/post1/</link>
+      <pubDate>Fri, 30 Jun 2023 22:01:12 +0900</pubDate>
+      
+      <guid>https://charlesid.dev/post/post1/</guid>
+      <description>&lt;p&gt;abstraction show in the post page&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
